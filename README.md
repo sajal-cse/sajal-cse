@@ -1,44 +1,18 @@
-# 👋 Hi, I'm Sajal
+# 💫 About Me:
+🎓 2nd Semester B.Tech CSE (Data Science) Student<br>🌱 Currently learning C++, DSA, Git, and Open Source<br>🎯 Aiming for Google Summer of Code (GSoC) 2026<br>🧑‍💻 Exploring tech, building projects, and growing every day<br>📫 How to reach me: LinkedIn
 
-🎓 2nd Semester B.Tech CSE (Data Science) Student  
-🌱 Currently learning C++, DSA, Git, and Open Source  
-🎯 Aiming for Google Summer of Code (GSoC) 2026  
-🧑‍💻 Exploring tech, building projects, and growing every day  
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/sajal-cse)
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sajal-cse) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sajal_cse) 
 
-### 🚀 Current Goals:
-- Learn and master C++ & DSA
-- Build real-world beginner-friendly projects
-- Make my first open source contribution
-- Apply for GSoC 2026
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sajal-cse&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sajal-cse&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajal-cse&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sajal-cse&icon=0&color=6)](https://visitcount.itsvg.in)
 
-### 📌 Tech I'm Learning:
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-> "Every expert was once a beginner. Stay consistent, and you'll surprise yourself." 💪
-
-
-
-<!--
-**sajal-cse/sajal-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
